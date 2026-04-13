@@ -18,7 +18,7 @@
     <description>GitHub, Jenkins ve Docker ile otomatik yayinlama ornegi</description>
 
     <properties>
-        <java.version>21</java.version>
+        <java.version>17</java.version>
     </properties>
 
     <dependencies>
