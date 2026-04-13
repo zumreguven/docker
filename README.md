@@ -73,4 +73,4 @@ Bu ayar Jenkins'in repoyu yaklasik her 2 dakikada bir kontrol etmesini saglar.
 3. `app.message` degerini degistirin.
 4. Tekrar push edin.
 5. Jenkins'in yeni build aldigini ve Docker container'i guncelledigini gosterin.
-6. `curl http://localhost:8080/` ile yeni mesaji kanit olarak gosterin.
+6. `curl http://localhost:8082/` ile yeni mesaji kanit olarak gosterin.

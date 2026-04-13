@@ -4,7 +4,7 @@ pipeline {
     environment {
         IMAGE_NAME = 'cicd-demo'
         CONTAINER_NAME = 'cicd-demo-app'
-        APP_PORT = '8080'
+        APP_PORT = '8082'
     }
 
     options {
